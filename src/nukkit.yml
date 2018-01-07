@@ -1,0 +1,5 @@
+name: TapFly
+main: kake26s.mcpe.TapFly.Main
+version: 0.0.1
+author: kake26s
+api: ["1.0.0"]
